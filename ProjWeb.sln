@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjWeb", "ProjWeb\ProjWeb.csproj", "{1C0E8398-3D54-41FE-842B-F3DC615DC02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoApp", "ProjetoApp\ProjetoApp.csproj", "{12C7C20F-CC26-4077-B895-DF0E77261860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C0E8398-3D54-41FE-842B-F3DC615DC02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0E8398-3D54-41FE-842B-F3DC615DC02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0E8398-3D54-41FE-842B-F3DC615DC02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0E8398-3D54-41FE-842B-F3DC615DC02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C7C20F-CC26-4077-B895-DF0E77261860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C7C20F-CC26-4077-B895-DF0E77261860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C7C20F-CC26-4077-B895-DF0E77261860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C7C20F-CC26-4077-B895-DF0E77261860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12E07517-3E2B-4165-BAB0-A7FA5B51B77A}
+	EndGlobalSection
+EndGlobal
